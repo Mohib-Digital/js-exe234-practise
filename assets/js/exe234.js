@@ -30,4 +30,12 @@ var myCancatenation = "2" + 4
 console.log(myCancatenation)
 // Buhat maja agea yaaaaaaaaaaaaaaaaaar
 
+var csWithAlam;
+csWithAlam = "A good one";
+console.log(csWithAlam)
+
+// var jOn = "Hey jOn";
+// alert(jOn)
+// console.log("jOn")
+
 
